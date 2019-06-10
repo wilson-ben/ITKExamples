@@ -5,7 +5,7 @@ ImageFunction
   :maxdepth: 1
 
   MultiplyKernelWithAnImageAtLocation/Documentation.rst
-  GaussianBlurImageFunction/Documentation.rst
+  GaussianBlurImageFunctionEx/Documentation.rst
   ComputeMedianOfImageAtPixel/Documentation.rst
   ResampleSegmentedImage/Documentation.rst
   LinearlyInterpolatePositionInImage/Documentation.rst
