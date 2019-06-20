@@ -12,11 +12,12 @@ Permute a sequence of indices.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+Output::
+
+  1 0 4 3 2
+
+  After shuffle
+  4 1 0 2 3
 
 Code
 ----

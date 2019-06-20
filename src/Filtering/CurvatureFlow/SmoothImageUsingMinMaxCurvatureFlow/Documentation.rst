@@ -14,11 +14,10 @@ Smooth an image using min/max curvature flow.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: SmoothImageUsingMinMaxCurvatureFlow
+  :scale: 70%
+
+  Output In VTK Window
 
 Code
 ----

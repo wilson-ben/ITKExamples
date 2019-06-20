@@ -13,11 +13,12 @@ Pixel-wise division of two images.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: test.png
+  :scale: 70%
+  :alt: test.png
+
+  test.png
+
 Code
 ----
 

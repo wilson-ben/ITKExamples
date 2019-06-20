@@ -14,11 +14,17 @@ Compute the magnitude of each pixel in a vector image to produce a magnitude ima
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: Yinyang.png
+  :scale: 70%
+  :alt: Yinyang.png
+
+  Yinyang.png
+
+.. figure:: ComputerMagInVectorImageToMakeMagImage
+  :scale: 70%
+  :alt: output.png
+
+  output.png
 
 Code
 ----

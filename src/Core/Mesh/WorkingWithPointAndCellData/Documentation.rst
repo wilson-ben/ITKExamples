@@ -12,11 +12,17 @@ Associate point and cell data with a mesh.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+Output::
+
+  66
+  66
+  5
+
+  128
+  128
+  10
+
+mesh.vtk is also created.
 
 Code
 ----

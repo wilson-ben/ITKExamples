@@ -13,11 +13,33 @@ Iterate over a region of an image (without write access).
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: Yinyang.png
+  :scale: 70%
+
+  Yinyang.png
+
+Output::
+
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
+  255
 
 Code
 ----

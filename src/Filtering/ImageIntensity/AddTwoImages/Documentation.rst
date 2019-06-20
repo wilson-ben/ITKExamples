@@ -12,11 +12,10 @@ Add two images together.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: AddTwoImages.png
+  :scale: 70%
+
+  Output In VTK Image
 
 Code
 ----

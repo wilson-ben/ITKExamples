@@ -13,11 +13,10 @@ To apply a filter to only operate on a specified ImageRegion.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+Output::
+
+  Created random image.
+  Computed derivative.
 
 Code
 ----

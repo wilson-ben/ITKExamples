@@ -12,11 +12,17 @@ Get or set a member variable of an ITK class.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: Yinyang.png
+  :scale: 70%
+  :alt: Input Image.
+
+  Yingyang.png
+
+.. figure:: FindMaxAndMinInImageOutput.png
+  :scale: 70%
+  :alt: Output Image
+
+  Output Image
 
 Code
 ----

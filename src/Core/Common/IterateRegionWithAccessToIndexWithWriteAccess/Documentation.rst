@@ -14,11 +14,39 @@ Iterate over a region of an image with efficient access to the current index (wi
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: Yinyang.png
+  :scale: 70%
+
+  Yinyang.png
+
+.. figure:: IterateRegionWithAccessToIndexWithWriteAccess.png
+  :scale: 70%
+
+  Yinyang.png In VTK Window With Index Access
+
+Output::
+
+  Indices:
+  Index: [0, 0] value: ?
+  Index: [1, 0] value: ?
+  Index: [2, 0] value: ?
+  Index: [3, 0] value: ?
+  Index: [4, 0] value: ?
+  Index: [0, 1] value: ?
+  Index: [1, 1] value: ?
+  Index: [2, 1] value: ?
+  Index: [3, 1] value: ?
+  Index: [4, 1] value: ?
+  Index: [0, 2] value: ?
+  Index: [1, 2] value: ?
+  Index: [2, 2] value: ?
+  Index: [3, 2] value: ?
+  Index: [4, 2] value: ?
+  Index: [0, 3] value: ?
+  Index: [1, 3] value: ?
+  Index: [2, 3] value: ?
+  Index: [3, 3] value: ?
+  Index: [4, 3] value: ?
 
 Code
 ----

@@ -12,12 +12,17 @@ Write a filter with multiple outputs of the same type.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: TestOutput1.jpg
+  :scale: 70%
+  :alt: TestOutput1.jpg
 
+  TestOuput1.jpg
+
+.. figure:: TestOutput2.jpg
+  :scale: 70%
+  :alt: TestOutput2.jpg
+
+  TestOutput2.jpg
 Code
 ----
 

@@ -16,11 +16,9 @@ Compute min, max, variance and mean of an Image.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. warning::
+  **Fix Errors**
+  Example contains errors needed to be fixed for proper output.
 
 Code
 ----

@@ -14,11 +14,23 @@ Apply a kernel to every pixel in an image that is non-zero in a mask.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: input.png
+  :scale: 70%
+  :alt: input.png
+
+  input.png
+
+.. figure:: mask.png
+  :scale: 70%
+  :alt: mask.png
+
+  mask.png
+
+.. figure:: output.png
+  :scale: 70%
+  :alt: output.png
+
+  output.png
 
 Code
 ----

@@ -14,6 +14,11 @@ type is determined by the extension of the specified filename.
 
 Results
 -------
+.. figure:: WriteAnImage.png
+  :scale: 70%
+  :alt: test.png
+
+  test.png
 
 
 Code

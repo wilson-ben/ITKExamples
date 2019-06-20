@@ -13,11 +13,11 @@ Demonstrates how to assign transparency to pixels in an image, then writing the 
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: Transparency.png
+  :scale: 70%
+  :alt: test.tif
+
+  Output Image.
 
 Code
 ----

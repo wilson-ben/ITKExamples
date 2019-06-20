@@ -12,11 +12,18 @@ Scale an image.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: ScaleAnImageInput.png
+  :scale: 70%
+  :alt: Generated Input Image
+
+  Input Image
+
+.. figure:: ScaleAnImageOutput.png
+  :scale: 70%
+  :alt: Generated Output Image
+
+  Output Image
+
 
 Code
 ----

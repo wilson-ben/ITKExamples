@@ -13,11 +13,17 @@ Valued regional minimal of an image.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: input.png
+  :scale: 70%
+  :alt: input.png
+
+  input.png
+
+.. figure:: output.png
+  :scale: 70%
+  :alt: output.png
+
+  output.png
 
 Code
 ----

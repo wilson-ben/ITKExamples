@@ -12,11 +12,10 @@ Display an image.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: DisplayImage.png
+  :scale: 70%
+
+  Displayed Image.
 
 Code
 ----

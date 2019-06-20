@@ -13,11 +13,32 @@ A basic global registration of two images.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: fixing.png
+  :scale: 70%
+  :alt: fixing.png
+
+  fixing.png
+
+.. figure:: moving.png
+  :scale: 70%
+  :alt: moving.png
+
+  moving.png
+
+.. figure:: output.png
+  :scale: 70%
+  :alt: output.png
+
+  output.png
+
+Output::
+
+  Result =
+  Translation X = 15.0103
+  Translation Y = -1.12679
+  Iterations    = 15
+  Metric value  = 2374.3
+
 
 Code
 ----

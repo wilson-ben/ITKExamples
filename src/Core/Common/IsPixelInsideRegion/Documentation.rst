@@ -18,6 +18,7 @@ Results
 -------
 
 Output::
+
   [1, 1] Inside
   [6, 6] Outside
 

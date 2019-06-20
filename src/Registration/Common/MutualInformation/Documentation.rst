@@ -13,11 +13,34 @@ Global registration by maximizing the mutual information and using a translation
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: fixed.png
+  :scale: 70%
+  :alt: fixed.png
+
+  fixed.png
+
+.. figure:: moving.png
+  :scale: 70%
+  :alt: moving.png
+
+  moving.png
+
+.. figure:: output.png
+  :scale: 70%
+  :alt: output.png
+
+  output.png
+
+Output::
+
+  Optimizer stop condition: GradientDescentOptimizer: Maximum number of iterations (200) exceeded.
+
+  Result =
+  Translation X = -5.58344
+  Translation Y = -0.129678
+  Iterations    = 200
+  Metric value  = -0.00067634
+  Numb. Samples = 100
 
 Code
 ----

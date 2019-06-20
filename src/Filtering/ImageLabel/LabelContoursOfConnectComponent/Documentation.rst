@@ -12,11 +12,11 @@ Label the contours of connected components.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: LabelContoursOfConnectComponents.png
+  :scale: 70%
+
+Generated Output.
+
 
 Code
 ----

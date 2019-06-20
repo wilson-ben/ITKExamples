@@ -12,11 +12,35 @@ Normalized correlation using the FFT.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: fixedimage.png
+  :scale: 70%
+  :alt: fixedimage.png
+
+  fixedimage.png
+
+.. figure:: movingimage.png
+  :scale: 70%
+  :alt: movingimage.png
+
+  movingimage.png
+
+.. figure:: NormalizedCorrelationUsingFFT.png
+  :scale: 70%
+  :alt: correlation.mha
+
+  correlation.mha
+
+.. figure:: correlation.png
+  :scale: 70%
+  :alt: correlation.png
+
+  correlation.png
+
+Output::
+
+  Maximum location: [45, 44]
+  Maximum location fixed: [5, 6]
+  Maximum value: 1
 
 Code
 ----

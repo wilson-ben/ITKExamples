@@ -10,11 +10,17 @@ Valued regional maximal of an image.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: intensityblobs.png
+  :scale: 70%
+  :alt: intensityblobs.png
+
+  intensityblobs.png
+
+.. figure:: maximal.png
+  :scale: 70%
+  :alt: maximal.png
+
+  maximal.png
 
 Code
 ----

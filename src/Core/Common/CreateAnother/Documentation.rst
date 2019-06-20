@@ -15,6 +15,7 @@ Results
 -------
 
 Output::
+
   2
 
 Code

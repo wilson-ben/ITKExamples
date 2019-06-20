@@ -12,11 +12,12 @@ Add a constant to every pixel without duplicating the image in memory (an access
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+Output::
+
+  addPixelAccessor.SetValue(5)
+  image->GetPixel[0, 0]: 20 adaptor->GetPixel[0, 0]: 25
+  addPixelAccessor.SetValue(100)
+  image->GetPixel[0, 0]: 20 adaptor->GetPixel[0, 0]: 120
 
 Code
 ----

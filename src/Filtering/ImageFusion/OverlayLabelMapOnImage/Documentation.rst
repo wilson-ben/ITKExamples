@@ -12,11 +12,18 @@ Overlay a LabelMap on an image.
 
 Results
 -------
-.. note::
-   **Help Wanted**
-   Implementation of Results for sphinx examples containing this message.
-   Reconfiguration of CMakeList.txt may be necessary.
-   `Write An Example <https://itk.org/ITKExamples/Documentation/Contribute/WriteANewExample.html`>
+.. figure:: image.png
+  :scale: 70%
+  :alt: image.png
+
+  image.png
+
+.. figure:: output.png
+  :scale: 70%
+  :alt: output.png
+
+  output.png
+
 Code
 ----
 
